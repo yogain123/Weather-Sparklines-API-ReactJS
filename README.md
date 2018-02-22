@@ -1,6 +1,5 @@
-# Weather-Sparklines-API-ReactJS/README.md
+# Weather-Sparklines-API-ReactJS
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
